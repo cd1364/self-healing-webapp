@@ -32,7 +32,7 @@ The website files are stored in an S3 bucket and automatically synchronized to E
 
 # 📖 Architecture
 
-> Add your architecture image here.
+![Architecture](docs/architecture.png)
 
 ```
 docs/
